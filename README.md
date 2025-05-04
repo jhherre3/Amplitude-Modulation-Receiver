@@ -18,8 +18,7 @@ This kit is a modern recreation of a classic medium-wave (MW) amplitude modulati
 - **Transistor Count**: 6 (mixed NPN/PNP types)
 
 The full instructions and learning materials are provided online by the manufacturer:  
-🔗 https://www.usefulcomponents.com/breadboard-am-radio-kit.html
-
+🔗 https://www.usefulcomponents.com/main_contents/projects/breadboard_trf_radio/breadboard_trf_radio.html
 ---
 
 ## 📦 Bill of Materials (BOM)
@@ -99,7 +98,12 @@ You can find build images in the [`images/`](images/) folder of this repo, inclu
 ## 📚 Build Instructions
 
 All assembly steps, diagrams, and tuning instructions are hosted online:
-👉 [Build Guide – UsefulComponents.com](https://www.usefulcomponents.com/main_contents/projects/breadboard_trf_radio/breadboard_trf_radio.html)
+👉 [Breadboard TRF Radio Build Guide](https://www.usefulcomponents.com/main_contents/projects/breadboard_trf_radio/breadboard_trf_radio.html)
+
+Additional resources:
+
+- [Extra Build Pictures](https://www.usefulcomponents.com/main_contents/projects/breadboard_trf_radio/breadboard_trf_radio_extra_pictures.html)
+- [Circuit Modifications](https://www.usefulcomponents.com/main_contents/projects/breadboard_trf_radio/breadboard_trf_radio_modifications.html)
 
 ---
 
