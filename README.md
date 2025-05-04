@@ -99,7 +99,7 @@ You can find build images in the [`images/`](images/) folder of this repo, inclu
 ## 📚 Build Instructions
 
 All assembly steps, diagrams, and tuning instructions are hosted online:
-👉 [Build Guide – UsefulComponents.com](https://www.usefulcomponents.com/breadboard-am-radio-kit.html)
+👉 [Build Guide – UsefulComponents.com](https://www.usefulcomponents.com/main_contents/projects/breadboard_trf_radio/breadboard_trf_radio.html)
 
 ---
 
