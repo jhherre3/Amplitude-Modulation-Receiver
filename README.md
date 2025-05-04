@@ -4,7 +4,7 @@ This repository documents my build of a **Six Transistor AM/MW Radio Receiver** 
 
 Built entirely on a plug-in breadboard with discrete components, this AM radio project demonstrates the core principles of analog signal reception and amplification using basic electronic components.
 
-![AM Radio Completed Kit](images/am-radio-build.jpg)
+![AM Radio Completed Kit](images/AMradio.png)
 
 ---
 
